@@ -1,0 +1,16 @@
+Web Analytics - Project Brief
+1. Please create 7 page dummy website with a username and password for log-in. The site should have the following features as a part of the dummy content:
+
+ - video (you can pick any video from you tube).
+ - one page content (an article copy pasted from any content)
+ - a digital banner (a picture) which links to external page (Google.com opens in a separate window).
+(You can have mix and match of above items in different pages.)
+
+2. Also create a Back-End Module which can capture the User Behavior on the following lines:
+ - Time spent on Each Content Item
+ - Migration flow from one item to another
+ - Track Clicks on Banner Consumption
+
+Build a back end view page to display the captured data as Analytics. We should log-in as admin to see the details. 
+
+Any additional features you may think would be a value add on.	
